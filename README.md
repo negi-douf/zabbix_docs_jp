@@ -2,4 +2,4 @@
 
 ## Overview
 
-[Zabbix Documentation](https://www.zabbix.com/documentation/current/en/) をかいつまんで和訳したもの。一時的なメモとして使うので、バージョンに注意。  
+[Zabbix Documentation](https://www.zabbix.com/documentation/current/en/) をかいつまんで和訳したもの。6.2の一時的なメモとして使うので注意。  
